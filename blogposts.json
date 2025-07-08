@@ -1,0 +1,10 @@
+[
+  {
+    "imageUrl": "https:/example.com/lake",
+    "caption": "Sunset over the lake."
+  },
+  {
+    "imageUrl": "https://example.com/building",
+    "caption": "Cool architectural shot."
+  }
+]
