@@ -9,13 +9,13 @@
       "name": "Photography Portfolio",
       "url": "https://photos.app.goo.gl/ysB23VB1bQVEqycw6",
       "hover_text": "Full gallery on Google Photos",
-      "photo": ""
+      "photo": "photography.jpg"
     },
     {
       "name": "Email",
       "url": "mailto:noah.notanotherflood+site@gmail.com",
       "hover_text": "For projects, prints, or conversations",
-      "photo": ""
-    },
+      "photo": "email.jpg"
+    }
   ]
 }
