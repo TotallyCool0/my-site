@@ -1,0 +1,21 @@
+{
+  "_comment_about_this_file": "This is the contacts data file for Noah Wyatt's contact page. Edit this file on GitHub and the contact page will update within minutes. Fields: title (page heading), subtitle (small text under title), links[] (array of contact cards). Each link supports: name (required), url (required), hover_text (optional, shown under name), photo (optional, full URL to image). If photo is omitted, a beautiful Art Deco card is shown automatically.",
+
+  "title": "Let's Connect",
+  "subtitle": "Pick your lane — every door is open.",
+
+  "links": [
+    {
+      "name": "Photography Portfolio",
+      "url": "https://photos.app.goo.gl/ysB23VB1bQVEqycw6",
+      "hover_text": "Full gallery on Google Photos",
+      "photo": ""
+    },
+    {
+      "name": "Email",
+      "url": "mailto:noah.notanotherflood+site@gmail.com",
+      "hover_text": "For projects, prints, or conversations",
+      "photo": ""
+    },
+  ]
+}
